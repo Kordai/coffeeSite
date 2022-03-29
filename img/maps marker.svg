@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="210mm" height="297mm" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 210 297"
+ xmlns:xlink="http://www.w3.org/1999/xlink">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .str0 {stroke:#4F342D;stroke-width:4}
+    .fil0 {fill:white}
+   ]]>
+  </style>
+   <clipPath id="id0">
+    <rect x="39.7121" y="29.005" width="128.024" height="127.882"/>
+   </clipPath>
+ </defs>
+ <g id="Слой_x0020_1">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <path class="fil0 str0" d="M104.364 23.479c38.2621,0 69.2913,31.0292 69.2913,69.2913 0,26.6041 -12.8814,47.235 -32.0542,76.825 -9.1415,14.1084 -37.2371,60.2663 -37.2371,60.2663 0,0 -29.101,-46.1179 -39.0358,-61.1534 -21.0811,-31.9046 -30.2555,-49.9317 -30.2555,-75.9379 0,-38.2621 31.0292,-69.2913 69.2913,-69.2913z"/>
+  <g style="clip-path:url(#id0)">
+   <image transform="matrix(1 0 0 1 -65.2879 8.3864)" x="105" y="20.6187" width="128.024" height="127.881" xlink:href="maps marker_Images\maps marker_ImgID1.png"/>
+  </g>
+ </g>
+</svg>
